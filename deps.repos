@@ -2,7 +2,7 @@ repositories:
   unitree_a1_legged/unitree_legged_sdk:
     type: git
     url: https://github.com/unitreerobotics/unitree_legged_sdk.git
-    version: v3.3
+    version: v3.8.4
   unitree_a1_legged/lcm:
     type: git
     url: https://github.com/lcm-proj/lcm.git
